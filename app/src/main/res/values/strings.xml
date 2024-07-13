@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Screen Time Out Logout</string>
+    <string name="i_am_session_timeout_screen">I am Session TimeOut Screen</string>
+</resources>
