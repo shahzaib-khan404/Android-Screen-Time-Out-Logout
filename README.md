@@ -7,6 +7,7 @@ The Android Screen Timeout Logout Utility (ScreenTimeOutUtil) is a Kotlin utilit
 Automatically logs out users after a specified period of inactivity.
 Resets the logout timer on user interaction.
 Provides a customizable timeout duration.
+
 **Usage**
 Starting the Logout Timer:
 
